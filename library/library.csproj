@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>InvertedTomato.Ids</AssemblyName>
+        <RootNamespace>InvertedTomato.Ids</RootNamespace>
+        <PackageId>InvertedTomato.Id</PackageId>
+        <TargetFrameworks>net7.0;net6.0</TargetFrameworks>
+    </PropertyGroup>
+
+</Project>
